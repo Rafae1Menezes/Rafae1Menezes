@@ -8,7 +8,6 @@
 - [x] Sou UX/UI Designer.
 
 ### O que eu faço:
-- [x] Salvo vidas.
 - [x] Desenvolvo site e aplicativos web eficientes.
 - [x] Crio design funcional, moderno e belo.
 - [x] Estudando a trilha Ignite React.js da Rocketsest.
