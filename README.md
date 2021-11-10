@@ -1,4 +1,4 @@
-### Olá, eu sou Rafael Menezes ^^,
+### Olá, eu sou Rafael Menezes (em construção) ^^,
 [linkedin] [e-mail]
 
 - [x] Desenvolvedor Frontend especializado em React.js.
@@ -10,11 +10,11 @@
 ### O que eu faço:
 - [x] Desenvolvo site e aplicativos web eficientes.
 - [x] Crio design funcional, moderno e belo.
-- [x] Estudando a trilha Ignite React.js da Rocketsest.
+- [x] Estudando a trilha Ignite React.js da Rocketseat.
 - [x] Estudo periodicamente as documentações das minhas stacks.
 
 ### Minha stack:
-- [x] Especialização em Javascript (ES6) e Typescript.
+- [x] Especialização em JavaScript (ES6) e TypeScript.
 - [ ] Especialização em React.js.
 - [x] Domínio de HTML5, CSS3, SASS.
 - [ ] Bootstrap.
@@ -23,14 +23,14 @@
 
 ### Área de interesse:
 - [x] Desenvolver aplicações react.js auto nível.
-- [x] Busco constatimento aprimorar meus conhecimentos.
-- [x] Desenvolo projetos pessoais e autorais.
+- [x] Busco constantemente aprimorar meus conhecimentos.
+- [x] Desenvolvo projetos pessoais e autorais.
 - [x] Sempre me inteiro sobre tendências de design.
 - [x] Amo filmes, em especial por Tarkovsky e Begman.
 
 ### Minhas características 
 - [x] Dedicação.
-- [x] Minunciosidade.
+- [x] Minuciosidade.
 - [x] Organização.
 - [x] Satisfação em cria.
 - [x] Comprometimento.
