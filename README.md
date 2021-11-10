@@ -22,6 +22,11 @@
 - [ ] Noções de backend em Node.js, MySQL, MongoDB, Firebase.
 - [ ] Scrum
 
+### Meus futuros projetos:
+- [x] E-commerce
+- [x] Social Media
+- [ ] ...
+
 ### Área de interesse:
 - [x] Desenvolver aplicações react.js auto nível.
 - [x] Busco constantemente aprimorar meus conhecimentos.
