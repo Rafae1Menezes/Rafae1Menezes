@@ -1,4 +1,4 @@
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQZFhIMlsa1GATUIvmx9u0xFyLG-8uhbhfKA&usqp=CAU)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbThZimS_HVwHOo54bcsYQWwv30ZoJRlLX_g&usqp=CAU)
 
 ### Olá, eu sou Rafael Menezes ^^,
 [linkedin] [e-mail]
