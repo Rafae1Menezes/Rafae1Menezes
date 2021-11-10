@@ -1,9 +1,6 @@
 ### Olá, eu sou Rafael Menezes (em construção) ^^,
 [![Linkedin Badge](https://img.shields.io/badge/-Rafae1Menezes-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rafae1menezes/)](https://www.linkedin.com/in/rafae1menezes/)  [![Gmail Badge](https://img.shields.io/badge/-menezes.inbox-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:menezes.inbox@gmail.com)](mailto:menezes.inbox@gmail.com) 
 
-
-
-
 - [x] Desenvolvedor Frontend especializado em React.js.
 - [x] Estudei Ciências da Computação em 2006-2007 pela FIC.
 - [x] Sou Bombeiro Militar de MG.
@@ -21,8 +18,9 @@
 - [ ] Especialização em React.js.
 - [x] Domínio de HTML5, CSS3, SASS.
 - [ ] Bootstrap.
-- [ ] APIs REST.
-- [ ] Noções de backend em Node.js.
+- [ ] APIs REST, GraphQL.
+- [ ] Noções de backend em Node.js, MySQL, MongoDB, Firebase.
+- [ ] Scrum
 
 ### Área de interesse:
 - [x] Desenvolver aplicações react.js auto nível.
