@@ -1,5 +1,8 @@
 ### Olá, eu sou Rafael Menezes (em construção) ^^,
-[linkedin] [e-mail]
+[![Linkedin Badge](https://img.shields.io/badge/-Rafae1Menezes-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rafae1menezes/)](https://www.linkedin.com/in/rafae1menezes/)  [![Gmail Badge](https://img.shields.io/badge/-menezes.inbox-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:menezes.inbox@gmail.com)](mailto:menezes.inbox@gmail.com) 
+
+
+
 
 - [x] Desenvolvedor Frontend especializado em React.js.
 - [x] Estudei Ciências da Computação em 2006-2007 pela FIC.
