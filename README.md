@@ -23,8 +23,8 @@
 - [ ] Scrum
 
 ### Meus futuros projetos:
-- [x] E-commerce
-- [x] Social Media
+- [ ] E-commerce
+- [ ] Social Media
 - [ ] ...
 
 ### Área de interesse:
