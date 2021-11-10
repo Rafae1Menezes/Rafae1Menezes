@@ -19,7 +19,7 @@
 - [x] Domínio de HTML5, CSS3, SASS.
 - [ ] Bootstrap.
 - [ ] APIs REST, GraphQL.
-- [ ] Noções de backend em Node.js, MySQL, MongoDB, Firebase.
+- [ ] Noções de backend em Node.js, MySQL, MongoDB, Firebase, Express.
 - [ ] Scrum
 
 ### Meus futuros projetos:
@@ -38,5 +38,5 @@
 - [x] Dedicação.
 - [x] Minuciosidade.
 - [x] Organização.
-- [x] Satisfação em cria.
+- [x] Satisfação em criar.
 - [x] Comprometimento.
