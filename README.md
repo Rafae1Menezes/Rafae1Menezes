@@ -8,7 +8,7 @@
 - [x] UX/UI Designer.
 
 ### O que eu faço:
-- [x] Desenvolvo site e aplicativos web eficientes.
+- [x] Desenvolvo site e aplicativos eficientes para a web.
 - [x] Crio design funcional, moderno e belo.
 - [x] Estudando a trilha Ignite React.js da Rocketseat.
 - [x] Estudo periodicamente as documentações das minhas stacks.
