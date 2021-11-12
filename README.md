@@ -5,7 +5,7 @@
 - [x] Estudei Ciências da Computação em 2006-2007 pela FIC.
 - [x] Sou Bombeiro Militar de MG.
 - [x] Formado em Arte e Design pela UFJF.
-- [x] Sou UX/UI Designer.
+- [x] UX/UI Designer.
 
 ### O que eu faço:
 - [x] Desenvolvo site e aplicativos web eficientes.
