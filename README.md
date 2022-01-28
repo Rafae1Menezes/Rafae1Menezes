@@ -16,6 +16,7 @@
 - [x] JavaScript e TypeScript.
 - [x] React.JS e Next.JS
 - [x] Domínio de HTML5, CSS3, SASS.
+- [x] PHP 
 - [x] Material-UI / Chakra-UI
 - [x] APIs REST.
 - [x] Noções de backend em Node.js, MySQL, MongoDB, FaunaDB, Firebase, Express.
