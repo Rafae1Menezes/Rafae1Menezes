@@ -1,10 +1,11 @@
 ### Olá, eu sou Rafael Menezes (em construção) ^^,
 [![Linkedin Badge](https://img.shields.io/badge/-Rafae1Menezes-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rafae1menezes/)](https://www.linkedin.com/in/rafae1menezes/)  [![Gmail Badge](https://img.shields.io/badge/-menezes.inbox-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:menezes.inbox@gmail.com)](mailto:menezes.inbox@gmail.com) 
 
-- [x] DesenvolvedorFrontend React.JS.
+- [x] Desenvolvedor Frontend React.JS.
+- [x] Pós-graduando em Engenharia de Software pela PUC Minas.
+- [x] Formado em Arte e Design pela UFJF.
 - [x] Estudei Ciências da Computação em 2006-2008 pela Doctum.
 - [x] Sou Bombeiro Militar de MG.
-- [x] Formado em Arte e Design pela UFJF.
 
 ### O que eu faço:
 - [x] Desenvolvo site e aplicativos de códigos limpos e  eficientes para a web.
